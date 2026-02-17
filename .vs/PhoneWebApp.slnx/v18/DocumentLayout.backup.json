@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|c:\\users\\adinm\\documents\\visual studio 18\\projects\\phonewebapp\\views\\phonecontact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|solutionrelative:views\\phonecontact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|c:\\users\\adinm\\documents\\visual studio 18\\projects\\phonewebapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|c:\\users\\adinm\\documents\\visual studio 18\\projects\\phonewebapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|c:\\users\\adinm\\documents\\visual studio 18\\projects\\phonewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|c:\\users\\adinm\\documents\\visual studio 18\\projects\\phonewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|c:\\users\\adinm\\documents\\visual studio 18\\projects\\phonewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|c:\\users\\adinm\\documents\\visual studio 18\\projects\\phonewebapp\\controllers\\phonecontactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|solutionrelative:controllers\\phonecontactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|c:\\users\\adinm\\documents\\visual studio 18\\projects\\phonewebapp\\views\\phonecontact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|solutionrelative:views\\phonecontact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|c:\\users\\adinm\\documents\\visual studio 18\\projects\\phonewebapp\\views\\phonecontact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|solutionrelative:views\\phonecontact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|c:\\users\\adinm\\documents\\visual studio 18\\projects\\phonewebapp\\models\\phonecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|solutionrelative:models\\phonecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|c:\\users\\adinm\\documents\\visual studio 18\\projects\\phonewebapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|c:\\users\\adinm\\documents\\visual studio 18\\projects\\phonewebapp\\models\\phonecontactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|solutionrelative:models\\phonecontactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|c:\\users\\adinm\\documents\\visual studio 18\\projects\\phonewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|c:\\users\\adinm\\documents\\visual studio 18\\projects\\phonewebapp\\migrations\\20260127043748_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D7F9EC-1F95-C902-2D76-61B7FD1CBC7D}|PhoneWebApp.csproj|solutionrelative:migrations\\20260127043748_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T18:31:40.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T05:31:57.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T05:44:31.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Views\\PhoneContact\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\PhoneContact\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Views\\PhoneContact\\Contact.cshtml",
+              "RelativeToolTip": "Views\\PhoneContact\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T05:47:34.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T04:17:59.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T18:28:23.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhoneContactController.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Controllers\\PhoneContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PhoneContactController.cs",
+              "ToolTip": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Controllers\\PhoneContactController.cs",
+              "RelativeToolTip": "Controllers\\PhoneContactController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T05:02:04.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Views\\PhoneContact\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\PhoneContact\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Views\\PhoneContact\\Edit.cshtml",
+              "RelativeToolTip": "Views\\PhoneContact\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T18:35:03.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhoneContact.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Models\\PhoneContact.cs",
+              "RelativeDocumentMoniker": "Models\\PhoneContact.cs",
+              "ToolTip": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Models\\PhoneContact.cs",
+              "RelativeToolTip": "Models\\PhoneContact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T18:35:51.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Views\\PhoneContact\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\PhoneContact\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Views\\PhoneContact\\Delete.cshtml",
+              "RelativeToolTip": "Views\\PhoneContact\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T18:34:50.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T05:31:00.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PhoneContactContext.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Models\\PhoneContactContext.cs",
+              "RelativeDocumentMoniker": "Models\\PhoneContactContext.cs",
+              "ToolTip": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Models\\PhoneContactContext.cs",
+              "RelativeToolTip": "Models\\PhoneContactContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T18:39:26.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-27T04:04:24.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260127043748_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Migrations\\20260127043748_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260127043748_Initial.cs",
+              "ToolTip": "C:\\Users\\adinm\\Documents\\Visual Studio 18\\Projects\\PhoneWebApp\\Migrations\\20260127043748_Initial.cs",
+              "RelativeToolTip": "Migrations\\20260127043748_Initial.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T04:37:49.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

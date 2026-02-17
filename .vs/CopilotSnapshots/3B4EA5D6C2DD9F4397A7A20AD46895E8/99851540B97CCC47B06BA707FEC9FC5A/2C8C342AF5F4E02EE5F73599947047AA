@@ -1,0 +1,35 @@
+﻿@model List<PhoneContact>
+@{
+    ViewData["Title"] = "My Contacts";
+}
+
+<div class="mb-2">
+    <a asp-controller="PhoneContact" asp-action="Add">Add New Contact</a>
+</div>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Phone Number</th>
+            <th>Address</th>
+            <th>Note</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var phoneContact in Model)
+        {
+            <tr>
+                <td>@phoneContact.Name</td>
+                <td>@phoneContact.PhoneNumber</td>
+                <td>@phoneContact.Address</td>
+                <td>@phoneContact.Note</td>
+                <td>
+                    <a asp-controller="Movie" asp-action="Edit" asp-route-id="@phoneContact.ContactId" asp-route-slug="@phoneContact.Slug">Edit</a> |
+                    <a asp-controller="Movie" asp-action="Delete" asp-route-id="@@phoneContact.ContactId" asp-route-slug="@phoneContact.Slug">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>"
